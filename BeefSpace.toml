@@ -1,0 +1,5 @@
+FileVersion = 1
+Projects = {CellarId = {Path = "."}, Beefy2D = "*"}
+
+[Workspace]
+StartupProject = "CellarId"
